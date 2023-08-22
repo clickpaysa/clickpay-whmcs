@@ -1,0 +1,28 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "clickpay",
+  "license": "MIT",
+  "category": "payments",
+  "description": {
+    "name": "Clickpay",
+    "tagline": "Clickpay is a 3rd party payment gateway. Ideal payment solutions for your internet business.",
+    "features": [
+      "Sale (Auth/Capture) mode",
+      "Refund"
+    ]
+  },
+  "logo": {
+    "filename": "clickpay.png"
+  },
+  "support": {
+    "homepage": "https:\/\/www.clickpay.com.sa\/",
+    "docs_url": "https:\/\/github.com/clickpaysa/clickpay-whmcs\/"
+  },
+  "authors": [
+    {
+      "name": "Clickpay integration team",
+      "homepage": "https:\/\/www.clickpay.com\/"
+    }
+  ]
+}
