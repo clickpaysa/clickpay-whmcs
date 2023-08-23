@@ -952,11 +952,11 @@ class ClickpayApi
     const BASE_URLS = [
         'ARE' => [
             'title' => 'United Arab Emirates',
-            'endpoint' => 'https://secure.clickpay.com.sa'
+            'endpoint' => 'https://secure.clickpay.com.sa/'
         ],
         'SAU' => [
             'title' => 'Saudi Arabia',
-            'endpoint' => 'https://secure.clickpay.com.sa'
+            'endpoint' => 'https://secure.clickpay.com.sa/'
         ],
     ];
 
